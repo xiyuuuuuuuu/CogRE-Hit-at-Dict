@@ -1,0 +1,12 @@
+The length of data_relation_1_relation_1: 3585
+The length of data_relation_1_no_relation: 732075
+The length of data_relation_1_relation_2: 14340
+The length of the original data_relation_1_relation_1_per_employee_of: 671
+The length of the original data_relation_1_relation_1_per_title: 1131
+The length of positive_pairs: 2583
+The distribution of the sampled_data_relation_1_relation_2: 
+    Counter({'per:title': 871, 'per:employee_of': 583, 'org:alternate_names': 356, 'per:countries_of_residence': 235, 'org:stateorprovince_of_headquarters': 211, 'per:cities_of_residence': 203, 'org:city_of_headquarters': 197, 'org:subsidiaries': 188, 'per:other_family': 176, 'org:members': 168, 'per:spouse': 167, 'per:parents': 159, 'per:cause_of_death': 147, 'org:website': 146, 'org:shareholders': 145, 'per:date_of_death': 140, 'org:political/religious_affiliation': 138, 'per:religion': 135, 'per:charges': 130, 'org:number_of_employees/members': 129, 'org:dissolved': 112, 'per:city_of_birth': 112, 'per:stateorprovince_of_birth': 108, 'per:country_of_birth': 107, 'per:country_of_death': 103})
+The length of final_data: 20000
+The length of final_data_positiva: 2583
+The length of final_data_negative: 17417
+Positive to Negative ratio: 6.742934572202865:1

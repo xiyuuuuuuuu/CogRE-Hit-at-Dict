@@ -1,0 +1,20 @@
+The length of data_relation_1_relation_1: 35688
+The length of data_relation_1_no_relation: 571560
+The length of data_relation_1_relation_2: 142752
+The length of the original data_relation_1_relation_1_business_company_founders: 497
+The length of the original data_relation_1_relation_1_business_company_place_founded: 279
+The length of the original data_relation_1_relation_1_business_person_company: 3330
+The length of the original data_relation_1_relation_1_location_country_capital: 4175
+The length of the original data_relation_1_relation_1_location_location_contains: 16952
+The length of the original data_relation_1_relation_1_location_us_state_capital: 391
+The length of the original data_relation_1_relation_1_people_ethnicity_geographic_distribution: 307
+The length of the original data_relation_1_relation_1_people_person_children: 292
+The length of the original data_relation_1_relation_1_people_person_nationality: 5001
+The length of the original data_relation_1_relation_1_people_person_place_lived: 4294
+The length of positive_pairs: 2670
+The distribution of the sampled_data_relation_1_relation_2: 
+Counter({'/location/location/contains': 3946, '/people/person/nationality': 1503, '/location/country/capital': 1378, '/people/person/place_lived': 1354, '/business/person/company': 1186, '/business/company/place_founded': 684, '/location/us_state/capital': 648, '/people/ethnicity/geographic_distribution': 626, '/business/company/founders': 624, '/people/place_of_interment/interred_here': 609, '/people/person/children': 597, '/location/us_county/county_seat': 565, '/people/person/ethnicity': 563, '/people/deceased_person/place_of_burial': 530, '/film/film_location/featured_in_films': 527})
+The length of final_data: 20000
+The length of final_data_positiva: 2670
+The length of final_data_negative: 17330
+Positive to Negative ratio: 6.49063670411985:1
