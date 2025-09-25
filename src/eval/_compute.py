@@ -195,13 +195,4 @@ def main():
     return current_result
 
 if __name__ == "__main__":
-    max_f1 = 0.0
-    min_f1 = 1.0
-    max_reult = None
-    min_result = None
-    for i in range(500):
-        current_result = main()
-        if current_result['f1_tacred'] > max_f1:
-            max_f1 = current_result['f1_tacred']
-            max_reult = current_result
-    print(f"max_f1: {max_f1}, max_reult: {max_reult}")
+    main()
